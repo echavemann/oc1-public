@@ -1,4 +1,4 @@
-from solution import Solution #! Change this to solution.py when ready to launch
+from solution import Solution
 from C5Objects import C5API, Item
 from typing import List
 import time 

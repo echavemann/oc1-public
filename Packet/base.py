@@ -95,7 +95,7 @@ class Solution:
                 break
 
         return nums
-    from tests import C5API, Item
+    from C5Objects import C5API, Item
     def Case5(self, api: C5API, items:List[Item]) -> int:
         """Implement this yourself :)"""
         pass
