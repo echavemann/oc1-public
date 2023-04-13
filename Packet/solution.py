@@ -20,6 +20,6 @@ class Solution:
   def Case4(self, nums: List[int]) ->List[int]:
     raise NotImplementedError
   
-  from tests import C5API, Item
+  from C5Objects import C5API, Item
   def Case5(self, api: C5API, items:List[Item]) -> int:
     raise NotImplementedError
