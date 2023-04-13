@@ -84,7 +84,7 @@ def TestCase5(Soln):
     
     api = C5API([b7, b8, b9, b10, b11, b12, b13, b14, b15, b16, b17])
     items = [b16, b17]
-    assert Soln(api, items) == 12040
+    assert Soln.Case5(api, items) == 12040
     
     return True
 
